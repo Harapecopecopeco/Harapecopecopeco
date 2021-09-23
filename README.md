@@ -1,12 +1,12 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/panicyusuke/posts.svg)](http://qiita.com/panicyusuke)
 ![](https://komarev.com/ghpvc/?username=Harapecopecopeco)  
-<h1 align="center">Hi 👋, I'm Harapecopecopeco</h1>
+## Hi 👋, I'm Harapecopecopeco
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harapecopecopeco)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harapecopecopeco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">A passionate backend developer from Japan</h3>
+## A passionate backend developer from Japan
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> 
