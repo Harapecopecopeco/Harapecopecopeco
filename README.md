@@ -8,8 +8,6 @@
 
 <h3 align="center">A passionate backend developer from Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harapecopecopeco" alt="harapecopecopeco" /></a> </p>
-
 - 🔭 I’m currently working on **another platform**
 
 - 🌱 I’m currently learning **Go, Typescript**
