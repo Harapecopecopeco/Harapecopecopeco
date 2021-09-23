@@ -2,9 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=Harapecopecopeco)  
 ## Hi 👋, I'm Harapecopecopeco
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harapecopecopeco)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harapecopecopeco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## A passionate backend developer from Japan
 
 <h3 align="left">Languages and Tools:</h3>
