@@ -1,12 +1,10 @@
 name: Metrics
 
 on:
-  repository_dispatch:
-    types: [test_trigger]
   workflow_dispatch:
   schedule:
     # Runs at 4am JST
-    - cron: '30 19 * * *'
+    - cron: '30 20 * * *'
 
 jobs:
   github-metrics:
