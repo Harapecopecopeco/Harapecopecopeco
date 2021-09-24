@@ -17,9 +17,8 @@
 - 💬 Ask me about **Python**
   
 ## My Wakatime Stats ⌚
-<<<<<<< HEAD
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harapecopecopeco)](https://github.com/anuraghazra/github-readme-stats)
-=======
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
