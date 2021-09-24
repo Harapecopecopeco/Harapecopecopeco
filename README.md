@@ -2,10 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=Harapecopecopeco)  
 ## Hi 👋, I'm Harapecopecopeco
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harapecopecopeco)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harapecopecopeco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## A passionate backend developer from Japan
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +17,85 @@
 - 💬 Ask me about **Python**
   
 ## My Wakatime Stats ⌚
+<<<<<<< HEAD
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harapecopecopeco)](https://github.com/anuraghazra/github-readme-stats)
+=======
+
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 69 Contributions in the Year 2021
+ > 
+> 📦 4.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
+🌆 Daytime    67 commits     ███████░░░░░░░░░░░░░░░░░░   28.39% 
+🌃 Evening    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+🌙 Night      90 commits     █████████░░░░░░░░░░░░░░░░   38.14%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Wednesday    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+Thursday     56 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Friday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   6 hrs 17 mins       █████████████░░░░░░░░░░░░   54.74% 
+JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96% 
+Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
+sh                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+
+🔥 Editors: 
+PyCharm                  8 hrs 29 mins       ██████████████████░░░░░░░   73.84% 
+WebStorm                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   22.41% 
+Zsh                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
+
+💻 Operating System: 
+Linux                    11 hrs 30 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Jupyter Notebook         1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Vue                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Harapecopecopeco/Harapecopecopeco/main/charts/bar_graph.png) 
+
+
+ Last Updated on 23/09/2021
+<!--END_SECTION:waka-->
+>>>>>>> a3918dd3ee2706baef62e8d132f95ca8ea614272
