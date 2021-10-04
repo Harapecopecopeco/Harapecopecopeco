@@ -93,4 +93,9 @@ TypeScript               1 repo              ██████░░░░░�
  Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
   
+ ![profile](https://user-images.githubusercontent.com/69703379/135818003-cbe9fe58-7663-4d83-9f29-60e792bb545b.png)
+
   
+  
+  
+ 
