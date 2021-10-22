@@ -23,7 +23,7 @@
 
 > 🏆 139 Contributions in the Year 2021
  > 
-> 📦 25.8 kB Used in GitHub's Storage 
+> 📦 26.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Harapecopecopeco/Harapecopecopeco/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
  
 
