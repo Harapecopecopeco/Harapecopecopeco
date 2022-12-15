@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=Harapecopecopeco)  
 ## Hi 👋, I'm Harapecopecopeco
 
-<figure><embed src="https://wakatime.com/share/@Harapecopecopeco/9e817f7e-8dfc-4df7-b1da-46b806c84564.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@Harapecopecopeco/5ae3a6e5-636b-41ac-b8ea-ad7a4a143d04.png
+    :target: https://wakatime.com/
 
 ## A passionate backend developer from Japan
 
